@@ -785,7 +785,11 @@ div.right {
   }
   .logo {
     display: block;
-    width: 96%;
+    width: 100%;
+    padding: 0;
+  }
+  .logo a{
+    margin: 0 auto;
   }
   .menu{
     display: block;
