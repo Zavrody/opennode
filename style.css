@@ -19,7 +19,7 @@ header {
   width: 100%;
   background-color: white;
   position: fixed;
-  z-index: 2;
+  z-index: 3;
   top: 0px;
 
 }
@@ -158,7 +158,7 @@ a.LearnMore:hover{
 }
 div.right {
   position: fixed;
-  z-index: 3;
+  z-index: 4;
   right: 0px;
   top: 37%;
 
@@ -1102,7 +1102,7 @@ div.right {
     height: auto;
     top: 43px;
     left: 60%;
-    z-index: 5;
+    z-index: 2;
   }
   .cd-select{
     margin: 0;
