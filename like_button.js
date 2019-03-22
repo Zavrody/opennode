@@ -30,8 +30,8 @@ function Choise1(){
   document.getElementById('selected').innerHTML = 'lorem ipsum<i class="fa fa-angle-down" id="arrow" ></i>';
 }
 function Choise2(){
-  document.getElementById('selected').innerHTML = 'Someshit2<i class="fa fa-angle-down" id="arrow" ></i>';
+  document.getElementById('selected').innerHTML = 'Somestuff2<i class="fa fa-angle-down" id="arrow" ></i>';
 }
 function Choise3(){
-  document.getElementById('selected').innerHTML = 'Someshit3<i class="fa fa-angle-down" id="arrow" ></i>';
+  document.getElementById('selected').innerHTML = 'Somestuff3<i class="fa fa-angle-down" id="arrow" ></i>';
 }
